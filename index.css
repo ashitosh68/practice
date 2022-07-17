@@ -1,0 +1,31 @@
+.header {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img {
+    width: 100%;
+    height: 500px;
+}
+.account{   
+    position: absolute;
+}
+.login{
+    padding: 10px;
+}
+.signup{
+    padding: 10px;
+}
+.subheading{
+    position: absolute;
+}
+.logo{
+    color: red;
+   background-color: white;
+   border-radius: 60%;
+   text-align: center;
+   margin: auto;
+   font-size: 65px;
+   width: 100px;
+}
