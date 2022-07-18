@@ -9,16 +9,21 @@
 
 .content {
     position: absolute;
-    top: 10px;
-    right: 10px
+    top: 15px;
+    left: 50%;
+    transform: translate(-50%,50%);
+    text-align: center;
 }
-.subheader{
+.header-content{
     position: absolute;
-    top: 40%;
-    left: 35%;
-    text-align: center;   
+    top: 10px;
+    right: 10px;
 }
-.logo{
+
+.content button {
+    padding: 10px;
+}
+.logo {
     background-color: white;
     color: red;
     height: 136px;
